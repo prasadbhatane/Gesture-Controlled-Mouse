@@ -1,4 +1,4 @@
-# Hand_Gesture_Mouse_control
+# Gesture-Controlled-Mouse
 Automate mouse events and movements with hand gestures
 
 ## Requirements
