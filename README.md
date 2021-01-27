@@ -11,8 +11,8 @@ Automate mouse events and movements with hand gestures
 
 ## To run this Project
 - Download this repository.
-- cmd commands : cd Hand_Gesture_Mouse_control ----> python mouse_control.py
+- cmd commands : cd Gesture-Controlled-Mouse ----> python mouse_control.py
 
 ## Contact
 - Email: prasadbhatane701@gmail.com
-- Project Link: https://github.com/prasadbhatane/Hand_Gesture_Mouse_control/
+- Project Link: https://github.com/prasadbhatane/Gesture-Controlled-Mouse
